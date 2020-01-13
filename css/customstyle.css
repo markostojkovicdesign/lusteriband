@@ -1,0 +1,53 @@
+html{
+    background-color: #ffd652;
+    font-family: 'Permanent Marker', cursive;    
+}
+.yellow-txt {
+    color: #ffd652;
+}
+.black-txt {
+    color: black;
+}
+.page-footer {
+    background-color: rgb(36, 36, 36)
+}
+.footer-copyright {
+    background-color: black
+}
+.logo-container {
+    margin: 24px;
+}
+.main-logo {
+    width: 5%;
+}
+a {
+    color: #ffd652;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+.footer-copyright {
+    border-color: rgb(36, 36, 36);
+    border-top: #ffd652;
+    border-style: dashed
+}
+.inline-disp {
+    display: inline;
+    margin-top: 16.4px;
+    margin-bottom: 9.84px
+
+    
+  }
+  .inline-disp .fa {
+    display: inline;
+    padding: 0px;
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 8px;
+    color: #ffd652;
+  }
+  .border-right {
+    border-color: rgb(36, 36, 36);
+    border-right-color: #ffd652;
+    border-style: dashed;
+  }
